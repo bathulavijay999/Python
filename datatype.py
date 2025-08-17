@@ -8,12 +8,12 @@ b=temp
 print("after swaping",a,b)
 
 #task2
-# c=input()
-# d=int(input())
-# e=float(input())
-# print("type is ",type(c))
-# print("type is ",type(d))
-# print("type is ",type(e))
+c=input()
+d=int(input())
+e=float(input())
+print("type is ",type(c))
+print("type is ",type(d))
+print("type is ",type(e))
  
  #3
 f=23
@@ -27,56 +27,56 @@ print("remainder",f%g)
 print("double multiplie",f**g)
 
 #4
-# salary=15000
-# hike=15
-# new_sal=(hike/100*15000)+salary
-# print(new_sal)
+salary=15000
+hike=15
+new_sal=(hike/100*15000)+salary
+print(new_sal)
 
 # #5
-# # r=int(input())
-# # area=(3.14159*(r**2))
-# # print("area of circle is",area)
-# # perimeter=2*3.14159*r
-# # print("perimeter of circle",perimeter)
+r=int(input())
+area=(3.14159*(r**2))
+print("area of circle is",area)
+perimeter=2*3.14159*r
+print("perimeter of circle",perimeter)
 
 # #6
-# input1="A"
-# print(ord(input1))
+input1="A"
+print(ord(input1))
 
-# #7
-# # num=int(input())
-# # if num%2==0:
-# #     print("even")
-# # else:
-# #     print("odd")
+#7
+num=int(input())
+if num%2==0:
+    print("even")
+else:
+    print("odd")
 
 # #8
-# i=6
-# j=9
-# print(i,j)
-# i+=4
-# print(i)
-# i-=2
-# print(i)
-# i*=j
-# print(i)
-# i//=j
-# print(i)
-# i%=j
-# print(i)
+i=6
+j=9
+print(i,j)
+i+=4
+print(i)
+i-=2
+print(i)
+i*=j
+print(i)
+i//=j
+print(i)
+i%=j
+print(i)
 
 # #9
-# a=5
-# b=7
-# print(a and b)
-# print(a or b)
-# print(not a)
+a=5
+b=7
+print(a and b)
+print(a or b)
+print(not a)
 
 # #10
-# a=17
-# b=5
-# print(a<<b)
-# print(a>>b)
+a=17
+b=5
+print(a<<b)
+print(a>>b)
 
 #11
 a=12
@@ -156,4 +156,5 @@ print("type of z is",type(z))
 #20
 n=5
 print("n<<1 is",n<<1)
+
 print("n>>2",n>>2)
